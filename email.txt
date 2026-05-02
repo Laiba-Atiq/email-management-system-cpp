@@ -1,0 +1,42 @@
+0,laiba,1,1,1,2025-12-09,false,false,1,Sent
+1,laiba,2,2,2,2025-12-09,false,false,2,Sent
+2,laiba,1,1,1,2025-12-09,false,false,1,Sent
+3,laiba,2,12,3,2025-12-09,false,false,1,Sent
+4,laiba,1,1,1,2025-12-10,false,false,1,Backup
+5,zoha,4,4,4,2025-12-10,false,false,4,Drafts
+6,zoha,2,2,3,2025-12-10,false,false,3,Sent
+7,laiba,zoha,a,a,2025-12-10,false,false,6,Backup
+8,laiba,zohatiq@gmail.com,Project Update,Please find the updated project files attached. Let me know your feedback.,2025-12-10,true,false,3,Sent
+8,laiba,zohatiq@gmail.com,Project Update,Please find the updated project files attached. Let me know your feedback.,2025-12-10,true,false,3,Inbox
+9,laiba,zohatiq@gmail.com,Spam Test,Winner! Claim your free Gift now. Limited offer Guaranteed Profit!,2025-12-10,false,true,1,Sent
+9,laiba,zohatiq@gmail.com,Spam Test,Winner! Claim your free Gift now. Limited offer Guaranteed Profit!,2025-12-10,false,true,1,Spam
+10,laiba,abdullah@gmail.com,DSA Assignment,Hey Abdullah can you share your notes for the heap topic? Thanks.,2025-12-10,true,false,3,Sent
+10,laiba,abdullah@gmail.com,DSA Assignment,Hey Abdullah can you share your notes for the heap topic? Thanks.,2025-12-10,true,false,3,Inbox
+11,laiba,abdullah@gmail.com,Meeting Tomorrow,Just a reminder that we have a group meeting tomorrow at 10am in the lab.,2025-12-10,false,false,4,Sent
+11,laiba,abdullah@gmail.com,Meeting Tomorrow,Just a reminder that we have a group meeting tomorrow at 10am in the lab.,2025-12-10,false,false,4,Inbox
+12,laiba,abdullah@gmail.com,Quick Question,Did you submit the form for the project demo? Please confirm as soon as possible.,2025-12-10,false,false,3,Sent
+12,laiba,abdullah@gmail.com,Quick Question,Did you submit the form for the project demo? Please confirm as soon as possible.,2025-12-10,false,false,3,Inbox
+13,minahil,laibatiq@gmail.com,Study Group,Hi Laiba we are forming a study group for finals. Are you interested in joining us?,2025-12-10,false,false,2,Sent
+13,minahil,laibatiq@gmail.com,Study Group,Hi Laiba we are forming a study group for finals. Are you interested in joining us?,2025-12-10,false,false,2,Inbox
+14,aoun,laibatiq@gmail.com,Spam Message,Exclusive Bonus offer! Guaranteed Profit if you claim your free Gift today. Winner selected!,2025-12-10,false,true,2,Sent
+14,aoun,laibatiq@gmail.com,Spam Message,Exclusive Bonus offer! Guaranteed Profit if you claim your free Gift today. Winner selected!,2025-12-10,false,true,2,Spam
+15,mina,laibatiq@gmail.com,Lab Report,Hi Laiba I have finished the lab report. Shall I send you a copy to review before submission?,2025-12-10,false,false,2,Sent
+15,mina,laibatiq@gmail.com,Lab Report,Hi Laiba I have finished the lab report. Shall I send you a copy to review before submission?,2025-12-10,false,false,2,Inbox
+16,zoha,laibatiq@gmail.com,Lecture Notes,Attaching the notes from todays lecture. Sorry for the late send hope it helps for revision.,2025-12-11,false,false,3,Sent
+16,zoha,laibatiq@gmail.com,Lecture Notes,Attaching the notes from todays lecture. Sorry for the late send hope it helps for revision.,2025-12-11,false,false,3,Inbox
+17,sadia,laibatiq@gmail.com,Event Invitation,You are invited to our farewell event on December 20th. Please confirm your attendance by Friday.,2025-12-11,true,false,4,Sent
+17,sadia,laibatiq@gmail.com,Event Invitation,You are invited to our farewell event on December 20th. Please confirm your attendance by Friday.,2025-12-11,true,false,4,Inbox
+18,laiba,sadia@gmail.com,Re Event Invitation,Thanks for the invite Sadia! I will definitely be there. Looking forward to it.,2025-12-11,true,false,3,Sent
+19,laiba,mina@qayyum.mqp,Project Draft,Hi Mina here is the draft for our project report. Please go through section 3 and add your part.,2025-12-12,false,false,5,Drafts
+20,abdullah,laibatiq@gmail.com,Notes Shared,Hey Laiba I have uploaded the heap notes on the drive. Check the shared folder when you get a chance.,2025-12-12,true,false,3,Sent
+20,abdullah,laibatiq@gmail.com,Notes Shared,Hey Laiba I have uploaded the heap notes on the drive. Check the shared folder when you get a chance.,2025-12-12,true,false,3,Inbox
+21,laiba,zohatiq@gmail.com,Urgent Reminder,This is an Urgent reminder about submission deadline tomorrow. Please do not miss it.,2025-12-13,false,false,5,Sent
+21,laiba,zohatiq@gmail.com,Urgent Reminder,This is an Urgent reminder about submission deadline tomorrow. Please do not miss it.,2025-12-13,false,false,5,Inbox
+23,laiba,zohatiq@gmail.com,Starred Important,Please star this email. This contains the final submission link for the DSA project.,2025-12-14,true,false,6,Sent
+23,laiba,zohatiq@gmail.com,Starred Important,Please star this email. This contains the final submission link for the DSA project.,2025-12-14,true,false,6,Import
+24,laiba,mina@qayyum.mqp,Schedule Meeting,Hi Mina lets schedule a call this weekend to discuss the remaining modules of the project.,2025-12-14,false,false,3,Scheduled
+25,laiba,zoha,Marks Correction,Please check if the marks for question 3 were added correctly. I think there is a mistake.,2025-12-15,false,false,1,Sent
+25,laiba,zoha,Marks Correction,Please check if the marks for question 3 were added correctly. I think there is a mistake.,2025-12-15,false,false,1,Inbox
+26,laiba,zoha,Assignment Done,I have completed the linked list assignment. Submitting it tonight before the deadline.,2026-05-02,true,false,1,Sent
+26,laiba,zoha,Assignment Done,I have completed the linked list assignment. Submitting it tonight before the deadline.,2026-05-02,true,false,1,Import27,Laiba,zohatiq@gmail.com,Assignment,done,2026-05-02,false,false,1,Sent
+27,Laiba,zohatiq@gmail.com,Assignment,done!,2026-05-02,true,false,1,Sent
